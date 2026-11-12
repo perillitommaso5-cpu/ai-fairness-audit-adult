@@ -43,7 +43,8 @@ A fairness audit of a machine learning model, carried out from the point of view
 | File | Description |
 | --- | --- |
 | `progetto1_audit_fairness.ipynb` | The executed notebook, with all results and charts |
-| `report_audit_fairness.pdf` | The full audit report (in Italian) |
+| `report_audit_fairness_en.pdf` | The full audit report (English) |
+| `report_audit_fairness.pdf` | The full audit report (Italian) |
 | `README.md` | This file |
 
 ### How to run it
@@ -99,7 +100,8 @@ Un audit di fairness su un modello di Machine Learning, svolto dal punto di vist
 | File | Descrizione |
 | --- | --- |
 | `progetto1_audit_fairness.ipynb` | Il notebook eseguito, con tutti i risultati e i grafici |
-| `report_audit_fairness.pdf` | Il report completo dell'audit |
+| `report_audit_fairness.pdf` | Il report completo dell'audit (italiano) |
+| `report_audit_fairness_en.pdf` | Il report completo dell'audit (inglese) |
 | `README.md` | Questo file |
 
 ### Come eseguirlo
